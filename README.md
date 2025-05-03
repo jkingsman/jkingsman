@@ -4,4 +4,4 @@ I'm Jack Kingsman! I live in Washington state. I'm a Senior SRE at Atlassian, bu
 
 Outside of coding, I’m into Star Trek, scuba diving, event EMT volunteering, amateur radio, and running!
 
-The best way to reach me is by email at jack [at] jackkingsman.me. If you'd like to help cover the hosting costs of some of my side projects (such as [Nobody.live](https://nobody.live), [buying me a coffee](https://ko-fi.com/jackkingsman) is always appreciated.
+The best way to reach me is by email at jack [at] jackkingsman.me. If you'd like to help cover the hosting costs of some of my side projects (such as [Nobody.live](https://nobody.live)), [buying me a coffee](https://ko-fi.com/jackkingsman) is always appreciated.
